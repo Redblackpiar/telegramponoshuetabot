@@ -4,8 +4,8 @@ import json
 import os
 import random
 import time
-from handler import keyboardin as nav
-from handler import keyboard as key
+import keyboardin as nav
+import keyboard as key
 TOKEN_Telegram = "5721796054:AAG97pca0p_DmJVuSL7lTkHJKXIICdXEjvM"
 
 profile = {
